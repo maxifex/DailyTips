@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="AppTheme">-->
+        <!--<item name="android:colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="android:colorAccent">@color/colorAccent</item>-->
+        <!--<item name="android:dialogTheme">@style/DialogStyle</item>-->
+        <!--<item name="android:alertDialogTheme">@style/DialogStyle</item>-->
+    <!--</style>-->
+    <!--<style name="DialogStyle" parent="android:Theme.Material.Light.Dialog">-->
+        <!--<item name="android:colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+</resources>
